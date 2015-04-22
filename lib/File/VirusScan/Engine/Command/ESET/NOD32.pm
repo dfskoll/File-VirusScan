@@ -104,7 +104,7 @@ L<http://download.eset.com/manuals/eset_mail_security.pdf>
 
 =head1 AUTHOR
 
-David Skoll (dfs@roaringpenguin.com)
+Dianne Skoll (dfs@roaringpenguin.com)
 
 Dave O'Neill (dmo@roaringpenguin.com)
 

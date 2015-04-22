@@ -26,6 +26,6 @@ requires 'IO::Socket::UNIX';
 requires 'IO::Select';
 requires 'HTML::TokeParser';
 
-author_tests('xt');
+#author_tests('xt');
 
 WriteAll;

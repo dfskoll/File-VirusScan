@@ -1,5 +1,9 @@
 Revision history for File-VirusScan
 
+0.103	Wed, 22 Apr 2015 13:37:43 -0400
+
+	Update co-maintainer's name to "Dianne Skoll"
+
 0.102	Mon, 10 May 2010 13:18:11 -0400
 
 	(clamd) Use proper session protocol when communicating with

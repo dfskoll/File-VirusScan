@@ -108,7 +108,7 @@ L<http://www.clamav.net/>
 
 =head1 AUTHOR
 
-David Skoll (dfs@roaringpenguin.com)
+Dianne Skoll (dfs@roaringpenguin.com)
 Dave O'Neill (dmo@roaringpenguin.com)
 
 =head1 LICENCE AND COPYRIGHT
