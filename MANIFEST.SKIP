@@ -1,11 +1,12 @@
-\.git/
-\.gitignore
 .*~
-blib/
-pm_to_blib
+File-VirusScan-.*
 MANIFEST.SKIP
 MANIFEST.bak
+MYMETA.yml
 Makefile$
 Makefile.old
 \.bak$
-File-VirusScan-.*
+\.git/
+\.gitignore
+blib/
+pm_to_blib

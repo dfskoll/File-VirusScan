@@ -1,6 +1,10 @@
 .perltidyrc
-Changes
 COPYING
+Changes
+MANIFEST
+META.yml
+Makefile.PL
+README
 inc/Module/Install.pm
 inc/Module/Install/AuthorTests.pm
 inc/Module/Install/Base.pm
@@ -37,11 +41,6 @@ lib/File/VirusScan/Engine/Daemon/Symantec/CSS.pm
 lib/File/VirusScan/Engine/Daemon/Trend/Trophie.pm
 lib/File/VirusScan/Result.pm
 lib/File/VirusScan/ResultSet.pm
-Makefile.PL
-MANIFEST
-META.yml
-MYMETA.yml
-README
 t/00-load.t
 t/authentium-command-antivirus.t
 t/bitdefender-bdc.t
