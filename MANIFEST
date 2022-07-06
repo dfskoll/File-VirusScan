@@ -39,7 +39,6 @@ lib/File/VirusScan/ResultSet.pm
 Makefile.PL
 MANIFEST
 META.yml
-MYMETA.json
 README
 t/00-load.t
 t/authentium-command-antivirus.t
