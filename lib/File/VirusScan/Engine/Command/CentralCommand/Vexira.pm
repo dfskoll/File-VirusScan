@@ -116,7 +116,7 @@ L<http://www.centralcommand.com/ts/dl/pdf/scanner_en_vexira.pdf>
 
 =head1 AUTHOR
 
-Dianne Skoll (dfs@roaringpenguin.com)
+Dianne Skoll (dianne@skoll.ca)
 
 Dave O'Neill (dmo@roaringpenguin.com)
 

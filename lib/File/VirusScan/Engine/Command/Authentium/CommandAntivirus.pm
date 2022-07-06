@@ -122,7 +122,7 @@ L<File::VirusScan::Result>,
 
 Dave O'Neill (dmo@roaringpenguin.com)
 
-Dianne Skoll (dfs@roaringpenguin.com)
+Dianne Skoll (dianne@skoll.ca)
 
 =head1 LICENCE AND COPYRIGHT
 

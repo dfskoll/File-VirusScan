@@ -297,7 +297,7 @@ L<http://www.symantec.com>
 
 =head1 AUTHOR
 
-Dianne Skoll (dfs@roaringpenguin.com)
+Dianne Skoll (dianne@skoll.ca)
 
 Dave O'Neill (dmo@roaringpenguin.com)
 
